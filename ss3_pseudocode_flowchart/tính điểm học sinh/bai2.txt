@@ -1,0 +1,15 @@
+Begin
+Sum = điểm học sinh 
+If ( sum => 75 ) 
+	loại A 
+If ( sum < 75, sum >= 60 )
+	loại B
+If ( sum < 60, sum >= 45 )
+	loại C
+If ( sum < 45, sum >= 35 )
+	loại D
+If ( sum < 45, sum >= 35 )
+	loại D
+If ( sum < 35 )
+	loại E
+End
