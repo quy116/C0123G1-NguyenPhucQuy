@@ -1,0 +1,10 @@
+ Begin
+Input 
+a =  Điểm học sinh 
+If ( a >= 75 ) {
+Loại A}
+If ( a < 75   ) {
+Loại B }
+If 
+
+End
